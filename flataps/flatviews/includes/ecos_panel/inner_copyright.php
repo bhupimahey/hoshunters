@@ -1,0 +1,1 @@
+<div class="dashboard_copyright bg-white py-4 color-secondery text-center">&copy; 2019 Hosthunters All right reserved</div>
